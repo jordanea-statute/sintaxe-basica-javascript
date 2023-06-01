@@ -72,6 +72,6 @@ do{ //faça enquanto
 
 
 let conatador =0;
-for (let i=0; i < 10; i++){ // estrutura de repetição for é o mesmo que para
+for (let i=0; i < 5; i++){ // estrutura de repetição for é o mesmo que para
     console.log(i)
 }
