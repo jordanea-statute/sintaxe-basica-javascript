@@ -1,3 +1,12 @@
+function principal(mensagem){
+
+    for (let i =0; i<5; i++);{
+        console.log(i);
+    }
+    console.log(mensagem);
+}
+
+
 //se e senao
 //if and else 
 //condição
@@ -54,10 +63,10 @@ switch (opcao) { //é o mesmo que escolha
         console.log("Opcao padrão");
         break;
 }
-*/
+
 /****** estrutura de repetição ********/
 // while é o mesmo que enquanto
-// 
+// do while é o mesmo que faça enquanto
 
 let contador = 0
 while (contador < 10){
@@ -70,8 +79,9 @@ do{ //faça enquanto
     console.log(++contador);
 }while (contador < 10)
 
+// for
+let contador2 = 0;
 
-let conatador =0;
 for (let i=0; i < 5; i++){ // estrutura de repetição for é o mesmo que para
     console.log(i)
 }
