@@ -70,3 +70,8 @@ do{ //faça enquanto
     console.log(++contador);
 }while (contador < 10)
 
+
+let conatador =0;
+for (let i=0; i < 10; i++){ // estrutura de repetição for é o mesmo que para
+    console.log(i)
+}
