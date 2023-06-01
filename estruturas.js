@@ -66,3 +66,7 @@ while (contador < 10){
   
 }
 
+do{ //faça enquanto
+    console.log(++contador);
+}while (contador < 10)
+
