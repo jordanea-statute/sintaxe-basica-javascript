@@ -14,7 +14,7 @@ function principal(mensagem){
     //operador logico javascript && é o mesmo que "e"
     //                           !  é o mesmo que "não"
     //                           || é o mesmo que "ou"
-/*
+
     const condicao1 = false
     const condicao2 = false
 if(condicao1 && condicao2) {
@@ -27,7 +27,7 @@ if(condicao1 && condicao2) {
 
 }
 
-/******* ou ********/ /*
+/******* ou ********/ 
 if(true) {
 
     console.log("verdadeiro");
@@ -47,7 +47,7 @@ if(true) {
 // escolha é o mesmo que switch
 // caso é o mesmo que case
 // caso contrario é o mesmo que defaul
-/*
+
 const opcao = 1;
 
 switch (opcao) { //é o mesmo que escolha
